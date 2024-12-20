@@ -1,0 +1,15 @@
+{
+    "name": "Random Fox Image",
+    "short_name": "Random Fox Image",
+    "icons": [
+      {
+        "src": "images.jpg",
+        "sizes": "250x250",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ddd",
+    "theme_color": "#333"
+  }
